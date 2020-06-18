@@ -1,0 +1,70 @@
+.header{
+    background-color: #ffd700;
+    border : 10px ridge#000028;
+    font-size : x-large;
+}
+
+body{
+    background-color : #E2F9FF;
+}
+
+h1,center{
+    color :  #000000;
+    font-family : 'Courier New', Courier, monospace;
+    font-style : bold;
+    margin-left : 30px;
+    text-align : center;
+}
+
+.info1{
+    background-color: #4169E1;
+    border : 10px ridge#000028;
+    font-family : 'Courier New', Courier, monospace;
+    font-size : large;
+}
+
+.info{
+    background-color: #4169E1;
+    border : 10px ridge#000028;
+    font-family : 'Courier New', Courier, monospace;
+    font-size : large;
+}
+
+.info2{
+    background-color: #4169E1;
+    border : 10px ridge#000028;
+    font-family : 'Courier New', Courier, monospace;
+    font-size : large;
+}
+
+.info3{
+    background-color: #4169E1;
+    border : 10px ridge#000028;
+    font-family : 'Courier New', Courier, monospace;
+    font-size : large;
+}
+
+.info4{
+    background-color: #4169E1;
+    border : 10px ridge#000028;
+    font-family : 'Courier New', Courier, monospace;
+    font-size : large;
+}
+
+.info5{
+    background-color: #4169E1;
+    border : 10px ridge#000028;
+    font-family : 'Courier New', Courier, monospace;
+    font-size : large;
+}
+
+.info6{
+    background-color: #4169E1;
+    border : 10px ridge#000028;
+    font-family : 'Courier New', Courier, monospace;
+    font-size : large;
+}
+
+.h3{
+    font-size : medium;
+}
