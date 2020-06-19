@@ -1,5 +1,5 @@
 body{
-    background-color : #E2F9FF;
+    background-image : url("images/Background.jfif");
 }
 
 .header{
@@ -71,6 +71,22 @@ h2{
 }
 
 .item3{
+    position : relative;
+    border : 5px ridge#000000;
+    display : flex;
+    flex-wrap : wrap;
+    justify-content: center;
+}
+
+.item4{
+    position : relative;
+    border : 5px ridge#000000;
+    display : flex;
+    flex-wrap : wrap;
+    justify-content: center;
+}
+
+.item5{
     position : relative;
     border : 5px ridge#000000;
     display : flex;
