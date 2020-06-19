@@ -57,10 +57,23 @@ h2{
 .item{
     position : relative;
     border : 5px ridge#000000;
+    display : flex;
+    flex-wrap : wrap;
+    justify-content: center;
 }
 
-.grid{
+.item2{
+    position : relative;
+    border : 5px ridge#000000;
     display : flex;
-    flex-wrap: wrap;
-    justify-content: space-evenly;
+    flex-wrap : wrap;
+    justify-content: center;
+}
+
+.item3{
+    position : relative;
+    border : 5px ridge#000000;
+    display : flex;
+    flex-wrap : wrap;
+    justify-content: center;
 }
